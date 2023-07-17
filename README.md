@@ -1,2 +1,2 @@
-# Repositorio-de-Juan-Ignacio-Gomez
-Repositorio de prueba del módulo 2 del Prepcourse de Henry
+Juan Ignacio Gómez
+Este es un proyecto de prueba de como clonar un repositorio desde git hub a mi repositorio local.
