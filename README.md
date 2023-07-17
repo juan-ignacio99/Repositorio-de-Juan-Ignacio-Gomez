@@ -1,2 +1,2 @@
+Este es un proyeto de prueba de repositorio desde Github a repositorio local
 Juan Ignacio Gómez
-Este es un proyecto de prueba de como clonar un repositorio desde git hub a mi repositorio local.
